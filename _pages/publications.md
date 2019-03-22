@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ------
-1. Zhida Huang<sup>*</sup>, **Zhuoyao Zhong<sup>\*</sup>**, Lei Sun, and Qiang Huo, "Mask R-CNN With Pyramid Attention Network for Scene Text Detection", IEEE Winter Conference on Applications of Computer Vision (WACV), 2018 [[pdf]](https://arxiv.org/pdf/1811.09058.pdf). ( <sup>\*</sup> Equal contribution)
+* Zhida Huang<sup>*</sup>, **Zhuoyao Zhong<sup>\*</sup>**, Lei Sun, and Qiang Huo, "Mask R-CNN With Pyramid Attention Network for Scene Text Detection", IEEE Winter Conference on Applications of Computer Vision (WACV), 2018 [[pdf]](https://arxiv.org/pdf/1811.09058.pdf). ( <sup>\*</sup> Equal contribution)
 2. [Texture image segmentation using fused features and active contour](http://ieeexplore.ieee.org/document/7899935/)  
   __Mingqi Gao__, Hengxin Chen, Shenhai Zheng, Bin Fang, Lin Zhang  
   IEEE International Conference on Pattern Recognition (__ICPR__), 2016.  
