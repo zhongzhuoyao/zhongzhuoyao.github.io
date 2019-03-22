@@ -1,40 +1,20 @@
 ---
+layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-## Conference papers
-1. [A factorization based active contour model for texture segmentation](http://ieeexplore.ieee.org/document/7533173/)  
-  __Mingqi Gao__, Hengxin Chen, Shenhai Zheng, Bin Fang  
-  IEEE International Conference on Image Processing (__ICIP__), 2016. [<font color="#ffaa0a">[project page]</font>](https://gaomingqi.github.io/posts/2017/04/blog-post-3/), [<font color="#ffaa0a">[code]</font>](https://github.com/gaomingqi/FACM)
-2. [Texture image segmentation using fused features and active contour](http://ieeexplore.ieee.org/document/7899935/)  
-  __Mingqi Gao__, Hengxin Chen, Shenhai Zheng, Bin Fang, Lin Zhang  
-  IEEE International Conference on Pattern Recognition (__ICPR__), 2016.  
-3. [Multi-scale B-spline level set segmentation based on Gaussian kernel equalization](http://ieeexplore.ieee.org/document/7533175/)  
-  Shenhai Zheng, Bin Fang, Patrick S. P. Wang, Laquan Li, __Mingqi Gao__  
-  IEEE International Conference on Image Processing (__ICIP__), 2016.  
-4. [A novel variational method for liver segmentation based on statistical shape model prior and enforced local statistical feature](http://ieeexplore.ieee.org/document/7950515/)  
-  Shenhai Zheng, Bin Fang, Laquan Li, __Mingqi Gao__, Hongsuo Zhang, Hengxin Chen, Yi Wang  
-  IEEE International Symposium on Biomedical Imaging (__ISBI__), 2017.  
-5. [Automatic Liver Lesion Segmentation in CT Combining Fully Convolutional Networks and Non-negative Matrix Factorization](https://link.springer.com/chapter/10.1007/978-3-319-67552-7_6)  
-  Shenhai Zheng, Bin Fang, Laquan Li, __Mingqi Gao__, Yi Wang and Kaiyi Peng  
-  International Conference on Medical Image Computing and Computer Assisted Intervention (__MICCAI__) Workshop, 2017.
 
-## Journal papers
-1. <font color="#56adc6">Feature Fusion and Non-Negative Matrix Factorization based Active Contours for Texture Segmentation</font>  
-  __Mingqi Gao__, Hengxin Chen, Shenhai Zheng, Bin Fang   
-  __Signal Processing__, 2019. (Accepted)
-
-2. [B-spline based globally optimal segmentation combining low-level and high-level information](https://www.sciencedirect.com/science/article/pii/S003132031730314X)  
-  Shenhai Zheng, Bin Fang, Laquan Li, __Mingqi Gao__, Rui Chen, Kaiyi Peng    
-  __Pattern Recognition__, 2018.  
-3. [A variational approach to liver segmentation using statistics from multiple sources](http://iopscience.iop.org/article/10.1088/1361-6560/aaa360/meta)  
-  Shenhai Zheng, Bin Fang, Laquan Li, __Mingqi Gao__, Yi Wang  
-  __Physics in Medicine & Biology__, 2018.
-
-4. [An improved active shape model method for facial landmarking based on relative position feature](http://www.worldscientific.com/doi/abs/10.1142/S0219691317500084?journalCode=ijwmip)  
-  Hengxin Chen, __Mingqi Gao__, Bin Fang   
-  International Journal of Wavelets, Multiresolution and Information Processing (__IJWMIP__), 2017.  
-5. [A Novel Race Classification Method Based on Periocular Features Fusion](http://www.worldscientific.com/doi/abs/10.1142/S0218001417500264)  
-  Hengxin Chen, __Mingqi Gao__, Weiliang Xu, Karl Ricanek, Bin Fang   
-  International Journal of Pattern Recognition and Artificial Intelligence (__IJPRAI__), 2017.  
+------
+  * Zhida Huang<sup>*</sup>, **Zhuoyao Zhong<sup>\*</sup>**, Lei Sun, and Qiang Huo, "Mask R-CNN With Pyramid Attention Network for Scene Text Detection", IEEE Winter Conference on Applications of Computer Vision (WACV), 2018 [[pdf]](https://arxiv.org/pdf/1811.09058.pdf). ( <sup>\*</sup> Equal contribution)
+  * **Zhuoyao Zhong**, Lei Sun, and Qiang Huo, "An Anchor-Free Region Proposal Network for Faster R-CNN based Text Detection Approaches", International Journal on Document Analysis and Recognition (IJDAR), 2018. (Under review, arxiv previewed version [[pdf]](https://arxiv.org/ftp/arxiv/papers/1804/1804.09003.pdf))
+  * Wei Jia<sup>*</sup>, **Zhuoyao Zhong<sup>\*</sup>**, Lei Sun, and Qiang Huo, "A CNN-based Approach to Detecting Text from Images of Whiteboards and Handwritten Notes", IEEE International Conference on Frontiers in Handwriting Recognition (ICFHR), 2018 [[pdf]](https://ieeexplore.ieee.org/document/8563217). ( <sup>\*</sup> Equal contribution, oral presentation)
+  * **Zhuoyao Zhong**, Lei Sun, and Qiang Huo, "Improved Localization Accuracy by LocNet for Faster R-CNN based Text Detection in Natural Scene Images", Pattern Recognition, 2017. (Under review)
+  * **Zhuoyao Zhong**, Lei Sun, and Qiang Huo, "Improved Localization Accuracy by LocNet for Faster R-CNN based Text Detection", IEEE International Conference on Document Analysis and Recognition (ICDAR), 2017 [[pdf]](https://ieeexplore.ieee.org/document/8270086). (Oral presentation)
+  * Wei Jia, Lei Sun, **Zhuoyao Zhong**, Xiongjian Mo, Guoen Ma, and Qiang Huo, "A Robust Approach to Detecting Handwritten Text from Natural Scene Images", IEEE International Conference on Document Analysis and Recognition (ICDAR), 2017 [[pdf]](https://ieeexplore.ieee.org/document/8270069).
+  * **Zhuoyao Zhong**, Lianwen Jin, and Shuangping Huang, "DeepText: A New Approach for Text Proposal Generation and Text Detection in Natural Images", IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2017 [[pdf]](https://ieeexplore.ieee.org/document/7952348)[[code]](https://github.com/zhongzhuoyao/DeepText). (Oral presentation, arxiv previewed version [[pdf]](https://arxiv.org/pdf/1605.07314.pdf))
+  * Shuangping Huang, **Zhuoyao Zhong**, Lianwen Jin, Shuye, Zhang, and Haobin Wang, "DropRegion Training of Inception Font Network for High-Performance Chinese Font Recognition", Pattern Recognition, 77: 395-411, 2017. (Key designer and developer)
+  * **Zhuoyao Zhong**, Weishen Pan, Lianwen Jin, Harold Mouchere and Christian Viard-Gaudin, "SpottingNet: Learning the Similarity of Word Images with Convolutional Neural Network for Word Spotting in Handwritten Historical Documents", IEEE International Conference on Frontiers in Handwriting Recognition (ICFHR), 2016 [[pdf]](https://ieeexplore.ieee.org/document/7814079). (Oral presentation)
+  * Lianwen Jin, **Zhuoyao Zhong**, Zhao Yang, Weixin, Yang, Zecheng Xie and Jun Sun, "Applications of Deep Learning for Handwritten Chinese Character Recognition: A Review”, Acta Automatica Sinica, 42(8): 1125-1142, 2016 [[pdf]](http://www.aas.net.cn/CN/abstract/abstract18903.shtml).
+  * **Zhuoyao Zhong**, Lianwen Jin, and Zecheng Xie, "High Performance Offline Handwritten Chinese Character Recognition Using GoogLeNet and Directional Feature Maps", IEEE International Conference on Document Analysis and Recognition (ICDAR), 2015 [[pdf]](https://arxiv.org/ftp/arxiv/papers/1505/1505.04925.pdf)[[code]](https://github.com/zhongzhuoyao/HCCR-GoogLeNet). (Oral presentation)
+  * **Zhuoyao Zhong**, Lianwen Jin, and Ziyong Feng, "Multi-Font Printed Chinese Character Recognition using Multi-Pooling Convolutional Neural Network", IEEE International Conference on Document Analysis and Recognition (ICDAR), 2015 [[pdf]](https://ieeexplore.ieee.org/document/7333733). (Oral presentation)
