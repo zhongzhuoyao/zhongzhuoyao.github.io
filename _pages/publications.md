@@ -5,9 +5,7 @@ author_profile: true
 ---
 
 ------
-1. [A factorization based active contour model for texture segmentation](http://ieeexplore.ieee.org/document/7533173/)  
-  __Mingqi Gao__, Hengxin Chen, Shenhai Zheng, Bin Fang  
-  IEEE International Conference on Image Processing (__ICIP__), 2016. [<font color="#ffaa0a">[project page]</font>](https://gaomingqi.github.io/posts/2017/04/blog-post-3/), [<font color="#ffaa0a">[code]</font>](https://github.com/gaomingqi/FACM)
+1. Zhida Huang<sup>*</sup>, **Zhuoyao Zhong<sup>\*</sup>**, Lei Sun, and Qiang Huo, "Mask R-CNN With Pyramid Attention Network for Scene Text Detection", IEEE Winter Conference on Applications of Computer Vision (WACV), 2018 [[pdf]](https://arxiv.org/pdf/1811.09058.pdf). ( <sup>\*</sup> Equal contribution)
 2. [Texture image segmentation using fused features and active contour](http://ieeexplore.ieee.org/document/7899935/)  
   __Mingqi Gao__, Hengxin Chen, Shenhai Zheng, Bin Fang, Lin Zhang  
   IEEE International Conference on Pattern Recognition (__ICPR__), 2016.  
