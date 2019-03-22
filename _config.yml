@@ -11,9 +11,9 @@ title                    : "Zhuoyao's Home"
 title_separator          : "-"
 name                     : &name "Zhuoyao Zhong"
 description              : &description "personal description"
-url                      : https://zhongzhuoyao.github.io/zhongzhuoyao_v2.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zhongzhuoyao.github.io/zhongzhuoyao_v4.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zhongzhuoyao/zhongzhuoyao_v2.github.github.io"
+repository               : "zhongzhuoyao/zhongzhuoyao_v4.github.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
