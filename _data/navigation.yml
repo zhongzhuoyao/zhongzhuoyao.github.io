@@ -1,0 +1,16 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Experience"
+    url: /experience/    
+
+  - title: "Academic Activities"
+    url: /academic_activities/    
+    
+  - title: "Awards and Honors"
+    url: /awards_and_honors/
+    
+  - title: "CV"
+    url: /files/ZhuoyaoZhong_CV.pdf
