@@ -7,7 +7,7 @@ author_profile: true
 ------
 2016.07 – present   **Robust text detection**
 
-Mentor: MSRA Researcher Qiang Huo and Lei Sun    
+**Mentor: MSRA Researcher Qiang Huo and Lei Sun**   
 
 * The first to propose to use Faster R-CNN and Mask R-CNN to address the text detection problem 
 * Proposed **a novel anchor-free region proposal network (AF-RPN)** that can generate high-quality proposals of various shapes in an anchor-free manner to get rid of hand-crafted anchor design for Faster/Mask R-CNN framework; The idea of anchor-free is emerging in the field of generic object detection recently
@@ -18,14 +18,14 @@ Mentor: MSRA Researcher Qiang Huo and Lei Sun
 
 2019.03 – present   **Page object detection for document understanding scenarios**
 
-Mentor: MSRA Researcher Qiang Huo and Lei Sun    
+**Mentor: MSRA Researcher Qiang Huo and Lei Sun**    
 
 * The first to propose a unified framework that can detect both page objects (i.e., text-blocks, formulas, figures and tables) and text-lines within page objects for document understanding scenarios
 * Will be deployed in Microsoft’s “ReadDocument” API in Microsoft Cognitive Services in the next year
 
 2015.09 – 2016.07   **High performance Chinses font recognition**
 
-Mentor: Prof. Lianwen Jin
+**Mentor: Prof. Lianwen Jin**
 
 * Proposed a new data augmentation and regularization technique, namely DropRegion, to generate a large number of stochastic variant font samples by selectively disrupting local regions of characters; 
 * The similar idea can be found in the paper entitled [“DropBlock: A regularization method for convolutional networks”](https://arxiv.org/pdf/1810.12890.pdf) proposed by Google Brain
@@ -33,7 +33,7 @@ Mentor: Prof. Lianwen Jin
 
 2014.09 – 2015.07   **Offline handwritten Chinese character recognition**
 
-Mentor: Prof. Lianwen Jin
+**Mentor: Prof. Lianwen Jin**
 
 * The first to propose to incorporate directional features (e.g., Gabor, HoG and gradient feature) as domain knowledge into deep convolutional neural network to boost performance on offline HCCR
 *	Achieved a new state-of-the-art result on ICDAR-2013 offline HCCR competition dataset; 
