@@ -5,4 +5,6 @@ author_profile: true
 ---
 
 ------
-date: 2009-10-27
+2016.07 – present   Robust text detection                             Key designer & developer
+Mentor: MSRA Researcher Qiang Huo and Lei Sun    
+
