@@ -20,14 +20,14 @@ author_profile: true
 
 **Mentor: MSRA Researcher Qiang Huo and Lei Sun**    
 
-* The first to propose a unified framework that can detect both page objects (i.e., text-blocks, formulas, figures and tables) and text-lines within page objects for document understanding scenarios
+* The first to propose **a unified framework** that can detect both page objects (i.e., text-blocks, formulas, figures and tables) and text-lines within page objects for document understanding scenarios
 * Will be deployed in Microsoft’s “ReadDocument” API in Microsoft Cognitive Services in the next year
 
 2015.09 – 2016.07   **High performance Chinses font recognition**
 
 **Mentor: Prof. Lianwen Jin**
 
-* Proposed a new data augmentation and regularization technique, namely DropRegion, to generate a large number of stochastic variant font samples by selectively disrupting local regions of characters; 
+* Proposed **a new data augmentation and regularization technique**, namely DropRegion, to generate a large number of stochastic variant font samples by selectively disrupting local regions of characters; 
 * The similar idea can be found in the paper entitled [“DropBlock: A regularization method for convolutional networks”](https://arxiv.org/pdf/1810.12890.pdf) proposed by Google Brain
 * Achieved high performance on Chinese font recognition with only a few real character training samples
 
@@ -36,5 +36,5 @@ author_profile: true
 **Mentor: Prof. Lianwen Jin**
 
 * The first to propose to incorporate directional features (e.g., Gabor, HoG and gradient feature) as domain knowledge into deep convolutional neural network to boost performance on offline HCCR
-*	Achieved a new state-of-the-art result on ICDAR-2013 offline HCCR competition dataset; 
+*	Achieved **a new state-of-the-art result** on ICDAR-2013 offline HCCR competition dataset; 
 * Source code of our approach has been publicly available on [GitHub](https://github.com/zhongzhuoyao/HCCR-GoogLeNet)
