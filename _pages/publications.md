@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 ------
+* Chixiang Ma<sup>*</sup>, **Zhuoyao Zhong<sup>\*</sup>**, Lei Sun, and Qiang Huo, "A Relation Network Based Approach to Curved Text Detection", IIEEE International Conference on Document Analysis and Recognition (ICDAR), 2017. ( <sup>\*</sup> Equal contribution)
 * Zhida Huang<sup>*</sup>, **Zhuoyao Zhong<sup>\*</sup>**, Lei Sun, and Qiang Huo, "Mask R-CNN With Pyramid Attention Network for Scene Text Detection", IEEE Winter Conference on Applications of Computer Vision (WACV), 2018 [[pdf]](https://arxiv.org/pdf/1811.09058.pdf). ( <sup>\*</sup> Equal contribution)
 * **Zhuoyao Zhong**, Lei Sun, and Qiang Huo, "An Anchor-Free Region Proposal Network for Faster R-CNN based Text Detection Approaches", International Journal on Document Analysis and Recognition (IJDAR), 2018. (Under review, arxiv previewed version [[pdf]](https://arxiv.org/ftp/arxiv/papers/1804/1804.09003.pdf))
 * Wei Jia<sup>*</sup>, **Zhuoyao Zhong<sup>\*</sup>**, Lei Sun, and Qiang Huo, "A CNN-based Approach to Detecting Text from Images of Whiteboards and Handwritten Notes", IEEE International Conference on Frontiers in Handwriting Recognition (ICFHR), 2018 [[pdf]](https://ieeexplore.ieee.org/document/8563217). ( <sup>\*</sup> Equal contribution, oral presentation) 
