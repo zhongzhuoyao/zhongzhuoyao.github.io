@@ -1,12 +1,10 @@
 ---
 title: "Research Projects"
 permalink: /research_projects/
-date: 2012-03-01
 author_profile: true
 ---
 
-------
-2016.07 – present   **Robust text detection**
+## 2016.07 – present   **Robust text detection**
 
 **Mentor: MSRA Researcher Qiang Huo and Lei Sun**   
 
