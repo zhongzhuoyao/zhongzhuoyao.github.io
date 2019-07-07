@@ -1,6 +1,6 @@
 ---
 title: "Research Projects"
-permalink: /Research Projects/
+permalink: /research_projects/
 date: 2012-03-01
 author_profile: true
 ---
