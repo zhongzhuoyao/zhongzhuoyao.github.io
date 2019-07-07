@@ -5,7 +5,9 @@ author_profile: true
 ---
 
 ## **Robust text detection**
-Date: 2016.07 – present  Mentor: **MSRA Researcher Qiang Huo and Lei Sun**   
+Date: 2016.07 – present
+
+Mentor: **MSRA Researcher Qiang Huo and Lei Sun**   
 
 * The first to propose to use Faster R-CNN and Mask R-CNN to address the text detection problem 
 * Proposed **a novel anchor-free region proposal network (AF-RPN)** that can generate high-quality proposals of various shapes in an anchor-free manner to get rid of hand-crafted anchor design for Faster/Mask R-CNN framework; The idea of anchor-free is emerging in the field of generic object detection recently
