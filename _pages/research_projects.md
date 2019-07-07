@@ -14,15 +14,14 @@ author_profile: true
 * Achieved **state-of-the are results** on horizontal (ICDAR-2013), multi-oriented (ICDAR-2017 MLT, ICDAR-2105 and MSRA-TD500) and curved (Total-text and SCUT-CTW1500) text detection benchmarks
 * Deployed in the industry-leading [Microsoft’s new-generation Printed and Handwritten OCR API](https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/?from=timeline&isappinstalled=0#text) in [Microsoft Cognitive Services](https://azure.microsoft.com/en-us/services/cognitive-services/), outperforming Google Vision API significantly on the challenging indoor dataset including 11 scenarios (e.g., “document”, “receipt”, “invoice”, “street view”, and “product label”, etc.)
 
-## **Page object detection for document understanding scenarios**
-[![](https://img.shields.io/badge/2019/03–present-{green}.svg)]() 2019.03 – present   
+## ![](https://img.shields.io/badge/Date-2019/03–present-{green}.svg) **Page object detection for document understanding scenarios**  
 
 **Mentor: MSRA Researcher Qiang Huo and Lei Sun**    
 
 * The first to propose **a unified framework** that can detect both page objects (i.e., text-blocks, formulas, figures and tables) and text-lines within page objects for document understanding scenarios
 * Will be deployed in Microsoft’s “ReadDocument” API in Microsoft Cognitive Services
 
-## 2015.09 – 2016.07   **High performance Chinses font recognition**
+## ![](https://img.shields.io/badge/Date-2015/09–2016/07-{green}.svg) **High performance Chinses font recognition**
 
 **Mentor: Prof. Lianwen Jin**
 
@@ -30,7 +29,7 @@ author_profile: true
 * The similar idea can be found in the paper entitled [“DropBlock: A regularization method for convolutional networks”](https://arxiv.org/pdf/1810.12890.pdf) proposed by Google Brain
 * Achieved high performance on Chinese font recognition with only a few real character training samples
 
-## 2014.09 – 2015.07   **Offline handwritten Chinese character recognition**
+## ![](https://img.shields.io/badge/Date-2014/09–2015/07-{green}.svg) **Offline handwritten Chinese character recognition**
 
 **Mentor: Prof. Lianwen Jin**
 
