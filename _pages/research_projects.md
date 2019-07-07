@@ -4,8 +4,10 @@ permalink: /research_projects/
 author_profile: true
 ---
 
-### **Robust text detection**
+```
+**Robust text detection**
 Date: 2016.07 – present
+```
 
 Mentor: **MSRA Researcher Qiang Huo and Lei Sun**   
 * The first to propose to use Faster R-CNN and Mask R-CNN to address the text detection problem 
