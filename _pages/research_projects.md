@@ -21,7 +21,7 @@ author_profile: true
 * The first to propose **a unified framework** that can detect both page objects (i.e., text-blocks, formulas, figures and tables) and text-lines within page objects for document understanding scenarios
 * Will be deployed in Microsoft’s “ReadDocument” API in Microsoft Cognitive Services
 
-## ![](https://img.shields.io/badge/Date-2015/09–2016/07-{green}.svg) **High performance Chinses font recognition**
+## ![](https://img.shields.io/badge/Date-2015/09–2016/07-{green}.svg) **High performance Chinese font recognition**
 
 **Mentor: Prof. Lianwen Jin**
 
