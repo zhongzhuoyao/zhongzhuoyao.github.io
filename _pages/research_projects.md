@@ -1,7 +1,7 @@
 ---
 title: "Research Projects"
 permalink: /Research Projects/
-type: "Talk"
+type: "Talks"
 date: 2012-03-01
 author_profile: true
 ---
