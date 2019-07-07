@@ -6,7 +6,7 @@ author_profile: true
 
 ## ![](https://img.shields.io/badge/Date-2016/07–present-{green}.svg) **Robust text detection**
 
-**Mentor: MSRA Researcher Qiang Huo and Lei Sun**   
+**Mentor: MSRA Researcher [Qiang Huo](https://www.microsoft.com/en-us/research/people/qianghuo/) and [Lei Sun](https://www.microsoft.com/en-us/research/people/lsun/)**   
 * The first to propose to use Faster R-CNN and Mask R-CNN to address the text detection problem 
 * Proposed **a novel anchor-free region proposal network (AF-RPN)** that can generate high-quality proposals of various shapes in an anchor-free manner to get rid of hand-crafted anchor design for Faster/Mask R-CNN framework; The idea of anchor-free is also propular in the field of generic object detection recently
 * Proposed **a novel Relation Network based line grouping approach** to grouping text primitives effectively and detecting text instances with large inter-character spaces robustly
@@ -16,14 +16,14 @@ author_profile: true
 
 ## ![](https://img.shields.io/badge/Date-2019/03–present-{green}.svg) **Page object detection for document understanding**  
 
-**Mentor: MSRA Researcher Qiang Huo and Lei Sun**    
+**Mentor: MSRA Researcher [Qiang Huo](https://www.microsoft.com/en-us/research/people/qianghuo/) and [Lei Sun](https://www.microsoft.com/en-us/research/people/lsun/)**    
 
 * The first to propose **a unified framework** that can detect both page objects (i.e., text-blocks, formulas, figures and tables) and text-lines within page objects for document understanding scenarios
 * Will be deployed in Microsoft’s “ReadDocument” API in Microsoft Cognitive Services
 
 ## ![](https://img.shields.io/badge/Date-2015/09–2016/07-{green}.svg) **High performance Chinese font recognition**
 
-**Mentor: Prof. Lianwen Jin**
+**Mentor: [Prof. Lianwen Jin](http://www.hcii-lab.net/lianwen/)**
 
 * Proposed **a new data augmentation and regularization technique**, namely DropRegion, to generate a large number of stochastic variant font samples by selectively disrupting local regions of characters; 
 * The similar idea can be found in the paper entitled [“DropBlock: A regularization method for convolutional networks”](https://arxiv.org/pdf/1810.12890.pdf) proposed by Google Brain
@@ -31,7 +31,7 @@ author_profile: true
 
 ## ![](https://img.shields.io/badge/Date-2014/09–2015/07-{green}.svg) **Offline handwritten Chinese character recognition**
 
-**Mentor: Prof. Lianwen Jin**
+**Mentor: [Prof. Lianwen Jin](http://www.hcii-lab.net/lianwen/)**
 
 * The first to propose to incorporate directional features (e.g., Gabor, HoG and gradient feature) as domain knowledge into deep convolutional neural network to boost performance on offline HCCR
 *	Achieved **a new state-of-the-art result** on ICDAR-2013 offline HCCR competition dataset; 
