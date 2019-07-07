@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ```
-**Robust text detection**
+##Robust text detection
 Date: 2016.07 – present
 ```
 
