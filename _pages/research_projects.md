@@ -4,7 +4,7 @@ permalink: /research_projects/
 author_profile: true
 ---
 
-## **Robust text detection**
+### **Robust text detection**
 Date: 2016.07 – present
 
 Mentor: **MSRA Researcher Qiang Huo and Lei Sun**   
