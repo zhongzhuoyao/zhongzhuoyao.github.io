@@ -2,7 +2,7 @@
 ---
 title: 'Blog Post number 1'
 date: 2012-08-14
-#permalink: /talks/hccr_googlenet/
+permalink: /talks/hccr_googlenet/
 tags:
   - cool posts
   - category1
