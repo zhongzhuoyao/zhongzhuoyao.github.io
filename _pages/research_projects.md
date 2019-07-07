@@ -4,8 +4,7 @@ permalink: /research_projects/
 author_profile: true
 ---
 
-## **Robust text detection**
-![](https://img.shields.io/badge/Date-2016/07–present-{green}.svg) 
+## ![](https://img.shields.io/badge/Date-2016/07–present-{green}.svg) **Robust text detection**
 
 **Mentor: MSRA Researcher Qiang Huo and Lei Sun**   
 
