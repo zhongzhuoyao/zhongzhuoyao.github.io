@@ -31,7 +31,7 @@ author_profile: true
 
 ## ![](https://img.shields.io/badge/Date-2014/09–2015/07-{green}.svg) **Offline handwritten Chinese character recognition**
 
-**Mentor: Prof. [Lianwen Jin](http://www.hcii-lab.net/lianwen/)**
+**Mentor: [Prof. Lianwen Jin](http://www.hcii-lab.net/lianwen/)**
 
 * The first to propose to incorporate directional features (e.g., Gabor, HoG and gradient feature) as domain knowledge into deep convolutional neural network to boost performance on offline HCCR
 *	Achieved **a new state-of-the-art result** on ICDAR-2013 offline HCCR competition dataset; 
