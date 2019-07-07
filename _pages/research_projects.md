@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## **Robust text detection**
-![](https://img.shields.io/badge/2016/07–present-{green}.svg?logoHeight=100)
+![](https://img.shields.io/badge/2016/07–present-{green}.svg?logoWidth=100)
 [![](https://img.shields.io/badge/2016/07–present-{green}.svg)]()
 Date: 2016.07 – present
 Mentor: **MSRA Researcher Qiang Huo and Lei Sun**
