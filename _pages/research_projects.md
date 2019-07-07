@@ -22,7 +22,7 @@ author_profile: true
 **Mentor: MSRA Researcher Qiang Huo and Lei Sun**    
 
 * The first to propose **a unified framework** that can detect both page objects (i.e., text-blocks, formulas, figures and tables) and text-lines within page objects for document understanding scenarios
-* Will be deployed in Microsoft’s “ReadDocument” API in Microsoft Cognitive Services in the next year
+* Will be deployed in Microsoft’s “ReadDocument” API in Microsoft Cognitive Services
 
 2015.09 – 2016.07   **High performance Chinses font recognition**
 
