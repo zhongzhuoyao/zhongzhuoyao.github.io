@@ -17,7 +17,8 @@ Mentor: **MSRA Researcher Qiang Huo and Lei Sun**
 * Achieved **state-of-the are results** on horizontal (ICDAR-2013), multi-oriented (ICDAR-2017 MLT, ICDAR-2105 and MSRA-TD500) and curved (Total-text and SCUT-CTW1500) text detection benchmarks
 * Deployed in the industry-leading [Microsoft’s new-generation Printed and Handwritten OCR API](https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/?from=timeline&isappinstalled=0#text) in [Microsoft Cognitive Services](https://azure.microsoft.com/en-us/services/cognitive-services/), outperforming Google Vision API significantly on the challenging indoor dataset including 11 scenarios (e.g., “document”, “receipt”, “invoice”, “street view”, and “product label”, etc.)
 
-## 2019.03 – present   **Page object detection for document understanding scenarios**
+## **Page object detection for document understanding scenarios**
+[![Build Status](https://travis-ci.org/alrra/browser-logos.svg?branch=master)](https://travis-ci.org/alrra/browser-logos) 2019.03 – present   
 
 **Mentor: MSRA Researcher Qiang Huo and Lei Sun**    
 
