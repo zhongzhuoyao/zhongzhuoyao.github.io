@@ -4,7 +4,7 @@ permalink: /research_projects/
 author_profile: true
 ---
 
-## ![](https://img.shields.io/badge/Date-2016/07–present-{green}.svg) **Robust text detection**
+## ![](https://img.shields.io/badge/Date-2016/07–2019/12-{green}.svg) **Robust text detection**
 
 **Mentor: MSRA Researcher [Qiang Huo](https://www.microsoft.com/en-us/research/people/qianghuo/) and [Lei Sun](https://www.microsoft.com/en-us/research/people/lsun/)**   
 * The first to propose to use Faster R-CNN and Mask R-CNN to address the text detection problem 
