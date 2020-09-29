@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 ------
-  * **2011.09-2015.06**: B.Eng. in Electronics and Information Engineering at SCUT
-  * **2015.09-Present**: Ph.D. candidate in Information Engineering at SCUT
-  * **2016.07-Present**: Intern in the speech group of MSRA
+  * **2011.09-2015.06**: B.Eng. in Information Engineering at SCUT
+  * **2015.09-2020.06**: Ph.D. candidate in Information and Communication Engineering at SCUT
+  * **2016.07-2019.12**: Intern of Speech Group of MSRA
+  * **2020.07-present**: Researcher of Speech Group of MSRA
