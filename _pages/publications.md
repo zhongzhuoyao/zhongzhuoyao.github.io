@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 ------
+* Weihong Lin, Qifang Gao, Lei Sun, **Zhuoyao Zhong**, Kai Hu, Qin Ren, and Qiang Huo, "ViBERTgrid: A Jointly Trained Multi-Modal 2D Document Representation for Key Information Extraction from Documents", IEEE International Conference on Document Analysis and Recognition (ICDAR), 2021. (**ICDAR 2021 Best Paper Award**, arxiv previewed version [[pdf]](https://arxiv.org/abs/2105.11672))
 * Chixiang Ma, Lei Sun, **Zhuoyao Zhong**, and Qiang Huo, "ReLaText: Exploiting Visual Relationships for Arbitrary-Shaped Scene Text Detection with Graph Convolutional Networks", Pattern Recognition, 2020. (arxiv previewed version [[pdf]](https://arxiv.org/abs/2003.06999))
 * **Zhuoyao Zhong**, Lei Sun, and Qiang Huo, "An Anchor-Free Region Proposal Network for Faster R-CNN based Text Detection Approaches", International Journal on Document Analysis and Recognition (IJDAR), 2019 [[pdf]](https://link.springer.com/article/10.1007/s10032-019-00335-y?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst&utm_source=ArticleAuthorOnlineFirst&utm_medium=email&utm_content=AA_en_06082018&ArticleAuthorOnlineFirst_20190728).
 * **Zhuoyao Zhong**, Lei Sun, and Qiang Huo, "Improved Localization Accuracy by LocNet for Faster R-CNN based Text Detection in Natural Scene Images", Pattern Recognition, 2019 [[pdf]](https://www.sciencedirect.com/science/article/pii/S0031320319302894).
