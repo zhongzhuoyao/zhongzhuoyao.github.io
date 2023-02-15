@@ -5,6 +5,8 @@ author_profile: true
 ---
 
 ------
+* Kai Hu, Zhuoyuan Wu, **Zhuoyao Zhong**, Weihong Lin, Lei Sun, and Qiang Huo, "A Question-Answering Approach to Key Value Pair Extraction from Form-like Document Images", AAAI Conference on Artificial Intelligence, 2023. (First two authors are interns)
+* **Zhuoyao Zhong**, Jiawei Wang, Haiqing Sun, Kai Hu, Erhan Zhang, Lei Sun, and Qiang Huo, “A Hybrid Approach to Document Layout Analysis for Heterogeneous Document Images”, submitted to IEEE International Conference on Document Analysis and Recognition (ICDAR), 2023. 
 * Weihong Lin, Qifang Gao, Lei Sun, **Zhuoyao Zhong**, Kai Hu, Qin Ren, and Qiang Huo, "ViBERTgrid: A Jointly Trained Multi-Modal 2D Document Representation for Key Information Extraction from Documents", IEEE International Conference on Document Analysis and Recognition (ICDAR), 2021. (**ICDAR 2021 Best Paper Award**, arxiv previewed version [[pdf]](https://arxiv.org/abs/2105.11672))
 * Chixiang Ma, Lei Sun, **Zhuoyao Zhong**, and Qiang Huo, "ReLaText: Exploiting Visual Relationships for Arbitrary-Shaped Scene Text Detection with Graph Convolutional Networks", Pattern Recognition, 2020. (arxiv previewed version [[pdf]](https://arxiv.org/abs/2003.06999))
 * **Zhuoyao Zhong**, Lei Sun, and Qiang Huo, "An Anchor-Free Region Proposal Network for Faster R-CNN based Text Detection Approaches", International Journal on Document Analysis and Recognition (IJDAR), 2019 [[pdf]](https://link.springer.com/article/10.1007/s10032-019-00335-y?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst&utm_source=ArticleAuthorOnlineFirst&utm_medium=email&utm_content=AA_en_06082018&ArticleAuthorOnlineFirst_20190728).
