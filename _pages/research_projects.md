@@ -1,5 +1,5 @@
 ---
-title: "Research Projects"
+title: "PHD Research Projects"
 permalink: /research_projects/
 author_profile: true
 ---
